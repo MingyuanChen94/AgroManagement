@@ -1,3 +1,6 @@
 __pycache__/
 *.nc
 *zip
+resources/sentinel_1/
+resources/sentinel_l2a/
+resources/era_5/
